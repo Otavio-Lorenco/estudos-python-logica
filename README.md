@@ -13,7 +13,7 @@ Utilizei Inteligência Artificial para gerar desafios de lógica e desenvolvi as
 * Manipulação de Listas e Strings
 
 ## 📂 Organização
-Os arquivos estão numerados (`ex001.py` até `ex047.py`) seguindo a ordem de dificuldade.
+Os arquivos estão numerados (`ex001.py` até `ex048.py`) sem ordem de dificuldade.
 
 ---
 Feito por [Otavio Lourenço](https://github.com/Otavio-Lorenco)
