@@ -1,0 +1,25 @@
+🚀 Resumão sobre for em Python
+
+O for em Python é usado para repetir ações automaticamente.
+Ele percorre (ou “itera”) cada item de uma sequência: lista, tupla, string ou até um intervalo de números (range).
+
+
+
+Estrutura básica:
+
+(for) variavel (in) sequencia:
+    # código que será repetido
+
+
+variavel: cada item da sequência em cada repetição.
+
+sequencia: a coleção de dados (lista, tupla, string ou range).
+
+🔹 Exemplo com range() (sequência de números)
+
+
+for i in range(5):  # vai de 0 até 4
+    print(i)
+
+
+    
